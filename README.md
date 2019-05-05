@@ -6,4 +6,4 @@
 - Speech denoising using RNN
 - Deep learning compression (on MNIST dataset using SVD)
 - Variational Autoencoder
-- Siamese Networks
+- Speaker Verification - Siamese Networks
